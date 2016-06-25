@@ -1,0 +1,23 @@
+{
+  "name": "rpodwika/network-calculator",
+  "description": "Tools to calculate network subnet, prefix, mask, IP range in PHP",
+  "minimum-stability": "stable",
+  "require-dev": {
+    "phpunit/phpunit": "^5.4",
+    "satooshi/php-coveralls": "dev-master",
+    "phpunit/phpcov": "^3.1"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robert Podwika",
+      "email": "kontakt@rpodwika.pl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Rpodwika\\NetworkCalculator\\": "src/",
+      "Rpodwika\\Tests\\NetworkCalculator\\": "tests/"
+    }
+  }
+}
