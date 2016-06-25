@@ -1,7 +1,7 @@
 #Network calculator in PHP
 
 [![Build Status](https://travis-ci.org/rpodwika/network-calculator.svg)](https://travis-ci.org/rpodwika/network-calculator)
-[![Coverage Status](https://coveralls.io/repos/rpodwika/network-calculator/badge.svg?branch=master&service=github)](https://coveralls.io/github/rpodwika/network-calculator?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/rpodwika/network-calculator/badge.svg?branch=master)](https://coveralls.io/github/rpodwika/network-calculator?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/576e45c27bc6810042bf26aa/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/576e45c27bc6810042bf26aa)
 [![Latest Stable Version](https://poser.pugx.org/rpodwika/network-calculator/v/stable)](https://packagist.org/packages/rpodwika/network-calculator) [![Total Downloads](https://poser.pugx.org/rpodwika/network-calculator/downloads)](https://packagist.org/packages/rpodwika/network-calculator) [![Latest Unstable Version](https://poser.pugx.org/rpodwika/network-calculator/v/unstable)](https://packagist.org/packages/rpodwika/network-calculator) [![License](https://poser.pugx.org/rpodwika/network-calculator/license)](https://packagist.org/packages/rpodwika/network-calculator)
 
